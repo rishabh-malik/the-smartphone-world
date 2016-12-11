@@ -1,0 +1,50 @@
+#footer{
+text-allign:center;
+display:block-inline;
+color:red;
+border:3px;
+padding:5px;
+font:700 30px Arial;
+position:absolute;
+bottom:5px;
+}
+.button{
+color:white;
+background: red;
+border: 5px;
+border-radius: 3px;
+float:center;
+font: 700 30px Arial;
+line-height: 10px;
+padding: 2px;
+text-allign: center;
+box-sizing: 200px;
+position:relative;
+left:2px;
+text-decoration: none;
+}
+#nav li{
+display: inline;
+}
+#nav ul li a:hover{
+background-color:grey;
+color:black;
+}
+.row{
+display:table-row;
+left:0;
+}
+.row label{
+display:table-cell;
+padding:2px;
+text-allign:right;
+}
+.row input{
+display:table-cell;
+padding:2px;
+}
+p
+{
+float:left;
+margin-right:10px}
+
